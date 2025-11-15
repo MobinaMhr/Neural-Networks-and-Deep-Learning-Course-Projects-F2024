@@ -3,17 +3,17 @@ Neural Networks and Deep Learning course projects in the spring semester of the 
 
 ----------------------------------------------------------------------------------------------------------------------------------
 
-## [Fully Connected Neural Networks]([https://github.com/](https://github.com/MobinaMhr/Neural-Networks-and-Deep-Learning-Course-Projects-F2024/tree/main/HW1-FCNN))
+## [Fully Connected Neural Networks](https://github.com/MobinaMhr/Neural-Networks-and-Deep-Learning-Course-Projects-F2024/tree/main/HW1-FCNN)
 - Analysis and Design of Multilayer Neural Networks (MLP)
 - Training and Evaluation of a Simple Neural Network
 - MAdaline
 - MLP
 
-## [Convolutional Neural Networks]([https://github.com/](https://github.com/MobinaMhr/Neural-Networks-and-Deep-Learning-Course-Projects-F2024/tree/main/HW2-CNNs))
+## [Convolutional Neural Networks](https://github.com/MobinaMhr/Neural-Networks-and-Deep-Learning-Course-Projects-F2024/tree/main/HW2-CNNs)
 - Cancer Lesion Detection Using CNN
 - Bean Leaf Disease Detection Using Transfer Learning
 
-## [Region based CNNs]([https://github.com/](https://github.com/MobinaMhr/Neural-Networks-and-Deep-Learning-Course-Projects-F2024/tree/main/HW3-Region-based-CNNs))
+## [Region based CNNs](https://github.com/MobinaMhr/Neural-Networks-and-Deep-Learning-Course-Projects-F2024/tree/main/HW3-Region-based-CNNs)
 - Brain Tumor Segmentation from MRI Images Using UNet-VGG16
 - Traffic Sign Detection Using Faster R-CNN with ResNet50-FPN Backbone and SSD300 with VGG16
 
