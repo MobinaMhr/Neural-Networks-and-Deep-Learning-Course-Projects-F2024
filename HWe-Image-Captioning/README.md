@@ -1,0 +1,4 @@
+- Developed a CNN–RNN Encoder–Decoder model for image captioning
+- Implemented an attention-based extension of the model
+- Trained and tested on the Flickr8k dataset
+- Evaluated model performance using BLEU metrics
