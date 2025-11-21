@@ -1,0 +1,2 @@
+- Developed a wind power prediction model using Transformer Networks with Huber loss
+- Implemented white blood cell classification using Vision Transformer (ViT)
