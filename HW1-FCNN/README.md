@@ -1,4 +1,4 @@
-- Analysis and Design of Multilayer Neural Networks (MLP)
-- Training and Evaluation of a Simple Neural Network
-- MAdaline
-- MLP
+- Designed and trained multilayer perceptrons (MLP) using PyTorch
+- Implemented and evaluated a simple neural network from scratch
+- Developed a MAdaline network from scratch
+- Trained an MLP model using TensorFlow
