@@ -1,0 +1,2 @@
+- Segmented brain tumors in MRI images using UNet-VGG16
+- Detected traffic signs using Faster R-CNN (ResNet50-FPN) and SSD300 (VGG16)
