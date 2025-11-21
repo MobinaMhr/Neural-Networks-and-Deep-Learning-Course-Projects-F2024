@@ -1,0 +1,2 @@
+- Designed a Triplet VAE for tumor detection in MRI
+- Implemented an AdvGAN model for adversarial training
