@@ -1,0 +1,2 @@
+- Performed parameter-efficient fine-tuning (Soft Prompting, LoRA, Layer Freezing) on Gemma-2B and LLaMA-3B models.
+- Trained on the SlimOrca Persian dialogue dataset and compared models in efficiency, response quality, and computational cost.
