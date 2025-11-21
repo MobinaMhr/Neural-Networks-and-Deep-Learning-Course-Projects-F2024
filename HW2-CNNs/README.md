@@ -1,0 +1,2 @@
+- Developed a cancer lesion detection model using CNN
+- Applied transfer learning for bean leaf disease detection
