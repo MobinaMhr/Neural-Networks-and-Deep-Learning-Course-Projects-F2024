@@ -1,0 +1,4 @@
+- Analysis and Design of Multilayer Neural Networks (MLP)
+- Training and Evaluation of a Simple Neural Network
+- MAdaline
+- MLP
