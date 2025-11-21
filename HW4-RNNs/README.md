@@ -1,0 +1,2 @@
+- Built a CNN-LSTM model for spam detection
+- Predicted crude oil prices using LSTM, Bi-LSTM, and GRU
