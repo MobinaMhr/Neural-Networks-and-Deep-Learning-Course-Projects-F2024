@@ -4,36 +4,25 @@ Neural Networks and Deep Learning course projects in the spring semester of the 
 ----------------------------------------------------------------------------------------------------------------------------------
 
 ## [Fully Connected Neural Networks](https://github.com/MobinaMhr/Neural-Networks-and-Deep-Learning-Course-Projects-F2024/tree/main/HW1-FCNN)
-- Analysis and Design of Multilayer Neural Networks (MLP)
-- Training and Evaluation of a Simple Neural Network
-- MAdaline
-- MLP
+Implemented MLPs from scratch for classification and regression tasks, analyzing effects of hyperparameters, optimizers, and normalization.
 
 ## [Convolutional Neural Networks](https://github.com/MobinaMhr/Neural-Networks-and-Deep-Learning-Course-Projects-F2024/tree/main/HW2-CNNs)
-- Cancer Lesion Detection Using CNN
-- Bean Leaf Disease Detection Using Transfer Learning
+Trained CNNs for skin cancer and leaf disease detection using transfer learning (NasNet, MobileNetV2, EfficientNetB6) and optimizer comparison.
 
 ## [Region based CNNs](https://github.com/MobinaMhr/Neural-Networks-and-Deep-Learning-Course-Projects-F2024/tree/main/HW3-Region-based-CNNs)
-- Brain Tumor Segmentation from MRI Images Using UNet-VGG16
-- Traffic Sign Detection Using Faster R-CNN with ResNet50-FPN Backbone and SSD300 with VGG16
+Implemented VGG-UNet for brain tumor segmentation. Trained Faster R-CNN \& SSD300 for traffic sign detection, comparing mAP, speed, and scale robustness.
 
 ## [Recurrent Neural Networks](https://github.com/MobinaMhr/Neural-Networks-and-Deep-Learning-Course-Projects-F2024/tree/main/HW4-RNNs)
-- Spam Detection Using CNN-LSTM
-- Crude Oil Price Prediction Using LSTM, Bi-LSTM, and GRU
+Built CNN-LSTM for Persian spam detection using ParsBERT embeddings, and LSTM/GRU/Bi-LSTM models for crude oil price forecasting, benchmarking vs. ARIMA/SARIMA.
 
 ## [Transformers](https://github.com/MobinaMhr/Neural-Networks-and-Deep-Learning-Course-Projects-F2024/tree/main/HW5-Transformers)
-- Wind Power Prediction Using Transformer Network and Huber Loss
-- White Blood Cell Image Classification Using ViT
+Built a Transformer for wind power forecasting, benchmarking against RNN and MLP baselines. Applied a ViT for White Blood Cell Image classification and fine-tuning analysis vs. DenseNet-121.
 
 ## [Deep Generative Models](https://github.com/MobinaMhr/Neural-Networks-and-Deep-Learning-Course-Projects-F2024/tree/main/HW6-DGMs)
-- Design and Implementation of a Triplet VAE for Tumor Detection in MRI
-- Design and Implementation of AdvGAN Model
+Developed a Triplet-VAE for unsupervised brain tumor detection on MRI data with Gated Cross-Skip decoding and multi-loss optimization. Implemented an AdvGAN to generate adversarial attacks on ResNet-20, evaluating fidelity and attack success.
 
 ## [Image Caption Generation](https://github.com/MobinaMhr/Neural-Networks-and-Deep-Learning-Course-Projects-F2024/tree/main/HWe-Image-Captioning)
-- Developed an CNN–RNN Encoder–Decoder for image captioning.
-- Developed an attention-based CNN–RNN Encoder–Decoder for image captioning.
-- Trained and evaluated on the Flickr8k dataset using BLEU metrics.
+Developed CNN–RNN and attention-based CNN–RNN Encoder–Decoder for image captioning on Flickr8k, evaluated via BLEU scores.
 
 ## [Fine-Tuning of LLMs](https://github.com/MobinaMhr/Neural-Networks-and-Deep-Learning-Course-Projects-F2024/tree/main/HWe-LLMs-Fine-Tuning)
-- Performed parameter-efficient fine-tuning (Soft Prompting, LoRA, Layer Freezing) on Gemma-2B and LLaMA-3B models.
-- Trained on the SlimOrca Persian dialogue dataset and compared models in efficiency, response quality, and computational cost.
+Fine-tuned the LLaMA-3.2-3B-Instruct model on a Persian dialogue dataset using parameter-efficient methods (Soft Prompting, LoRA) and partial full fine-tuning (unfreezing first and last layers) with HuggingFace Transformers and PEFT, improving instruction-following quality under limited compute.
