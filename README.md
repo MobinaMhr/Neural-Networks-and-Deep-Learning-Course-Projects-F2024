@@ -10,7 +10,7 @@ Implemented MLPs from scratch for classification and regression tasks, analyzing
 Trained CNNs for skin cancer and leaf disease detection using transfer learning (NasNet, MobileNetV2, EfficientNetB6) and optimizer comparison.
 
 ## [Region based CNNs](https://github.com/MobinaMhr/Neural-Networks-and-Deep-Learning-Course-Projects-F2024/tree/main/HW3-Region-based-CNNs)
-Implemented VGG-UNet for brain tumor segmentation. Trained Faster R-CNN \& SSD300 for traffic sign detection, comparing mAP, speed, and scale robustness.
+This repository contains the implementation of two deep learning projects developed as part of the Neural Networks and Deep Learning course. The project focuses on applying convolutional neural networks (CNNs) and transfer learning techniques to solve real-world computer vision problems in medical imaging and autonomous driving.
 
 ## [Recurrent Neural Networks](https://github.com/MobinaMhr/Neural-Networks-and-Deep-Learning-Course-Projects-F2024/tree/main/HW4-RNNs)
 Built CNN-LSTM for Persian spam detection using ParsBERT embeddings, and LSTM/GRU/Bi-LSTM models for crude oil price forecasting, benchmarking vs. ARIMA/SARIMA.
